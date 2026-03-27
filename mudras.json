@@ -1,0 +1,77 @@
+[
+    {
+        "id": "pataka",
+        "name": "Pataka",
+        "meaning": "Flag or Wing",
+        "usage": "Sky, mountain, river, forest",
+        "history": "Basic gesture representing vastness and direction.",
+        "image": "https://www.natyasutraonline.com/picturegallery/large/112_02082023103416.jpg",
+        "idealAngles": {
+            "thumb": 0,
+            "index": 180,
+            "middle": 180,
+            "ring": 180,
+            "pinky": 180
+        }
+    },
+    {
+        "id": "tripataaka",
+        "name": "Tripataaka",
+        "meaning": "Three Flags",
+        "usage": "Fire, weapon, temple tower",
+        "history": "Folding ring finger distinguishes from Pataka.",
+        "image": "https://thumbs.dreamstime.com/z/tripataka-hasta-indian-dance-bharata-natyam-6595390.jpg",
+        "idealAngles": {
+            "thumb": 0,
+            "index": 180,
+            "middle": 180,
+            "ring": 90,
+            "pinky": 180
+        }
+    },
+    {
+        "id": "ardhapataaka",
+        "name": "Ardhapataaka",
+        "meaning": "Half Flag",
+        "usage": "Eye, face, sword",
+        "history": "Half-folded ring finger variation.",
+        "image": "https://img.freepik.com/premium-photo/ardhapataka-hasta-indian-dance-bharata-natyam_163782-5049.jpg",
+        "idealAngles": {
+            "thumb": 20,
+            "index": 170,
+            "middle": 170,
+            "ring": 110,
+            "pinky": 170
+        }
+    },
+    {
+        "id": "kartarimukha",
+        "name": "Kartarimukha",
+        "meaning": "Arrowhead",
+        "usage": "Lightning, minister, eye",
+        "history": "Crossed index and middle fingers.",
+        "image": "https://www.fitsri.com/wp-content/uploads/2023/11/kartarimukha-mudra.jpeg",
+        "idealAngles": {
+            "thumb": 30,
+            "index": 90,
+            "middle": 270,
+            "ring": 180,
+            "pinky": 180
+        }
+    },
+    {
+        "id": "mayura",
+        "name": "Mayura",
+        "meaning": "Peacock",
+        "usage": "Peacock, cloud, bird",
+        "history": "Thumb-index pinch mimicking peacock beak.",
+        "image": "https://i.pinimg.com/originals/d6/ea/43/d6ea4380c55d6d2cd7116ecb07f5da48.jpg",
+        "idealAngles": {
+            "thumb": 90,
+            "index": 90,
+            "middle": 180,
+            "ring": 180,
+            "pinky": 180
+        }
+    }
+]
